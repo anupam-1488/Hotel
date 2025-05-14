@@ -1,0 +1,14 @@
+export function formatDate(date: any, format: any): any;
+export function parseDate(dateString: any, format: any): Date;
+export function addDays(date: any, days: any): Date;
+export function addMonths(date: any, months: any): Date;
+export function addYears(date: any, years: any): Date;
+export function subDays(date: any, days: any): Date;
+export function subMonths(date: any, months: any): Date;
+export function subYears(date: any, years: any): Date;
+export function dateDiff(date1: any, date2: any, unit?: string): number;
+export function startOf(date: any, unit: any): Date;
+export function endOf(date: any, unit: any): Date;
+export function isBetween(date: any, start: any, end: any): boolean;
+export function isAfter(date1: any, date2: any): boolean;
+export function isBefore(date1: any, date2: any): boolean;
