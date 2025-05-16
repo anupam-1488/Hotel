@@ -1,0 +1,202 @@
+{"timestamp":"2025-05-16T05:54:15.527Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T05:54:28.397Z","level":"info","message":"Request received","requestId":"56h09iosgcf","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T05:54:28.406Z","level":"info","message":"Response sent","requestId":"56h09iosgcf","method":"GET","url":"/","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T05:54:30.193Z","level":"info","message":"Request received","requestId":"msi3pdtenc","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T05:54:30.195Z","level":"info","message":"Response sent","requestId":"msi3pdtenc","method":"GET","url":"/","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T06:03:50.922Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T06:04:08.200Z","level":"info","message":"Request received","requestId":"aanwiz0h7fd","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T06:04:08.206Z","level":"info","message":"Response sent","requestId":"aanwiz0h7fd","method":"GET","url":"/","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T06:04:09.472Z","level":"info","message":"Request received","requestId":"nu9gc5fn5tp","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T06:04:09.473Z","level":"info","message":"Response sent","requestId":"nu9gc5fn5tp","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T06:04:09.999Z","level":"info","message":"Request received","requestId":"qodb9t6fq4","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T06:04:10.000Z","level":"info","message":"Response sent","requestId":"qodb9t6fq4","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T06:04:10.156Z","level":"info","message":"Request received","requestId":"l3jwrfja4lb","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T06:04:10.157Z","level":"info","message":"Response sent","requestId":"l3jwrfja4lb","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T06:04:10.329Z","level":"info","message":"Request received","requestId":"zgp7r9xka3","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T06:04:10.331Z","level":"info","message":"Response sent","requestId":"zgp7r9xka3","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:00:20.707Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:00:20.712Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T07:00:27.796Z","level":"info","message":"Request received","requestId":"248duhfv9k5j","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:27.801Z","level":"info","message":"Response sent","requestId":"248duhfv9k5j","method":"GET","url":"/","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:00:27.833Z","level":"info","message":"Request received","requestId":"jttly1jqzya","method":"GET","url":"/styles.css","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:27.834Z","level":"info","message":"Request received","requestId":"a2flbzs9www","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:27.836Z","level":"info","message":"Response sent","requestId":"jttly1jqzya","method":"GET","url":"/styles.css","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:00:27.836Z","level":"info","message":"Response sent","requestId":"a2flbzs9www","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:00:29.306Z","level":"info","message":"Request received","requestId":"2x83s8gic39","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:29.310Z","level":"info","message":"Response sent","requestId":"2x83s8gic39","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:00:29.320Z","level":"info","message":"Request received","requestId":"wfwehtam0t","method":"GET","url":"/styles.css","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:29.322Z","level":"info","message":"Request received","requestId":"1x9c1dfevybj","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:29.324Z","level":"info","message":"Response sent","requestId":"wfwehtam0t","method":"GET","url":"/styles.css","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:00:29.324Z","level":"info","message":"Response sent","requestId":"1x9c1dfevybj","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:00:29.843Z","level":"info","message":"Request received","requestId":"kiyhuoibgce","method":"GET","url":"/styles.css","ip":"::1"}
+{"timestamp":"2025-05-16T07:00:29.845Z","level":"info","message":"Response sent","requestId":"kiyhuoibgce","method":"GET","url":"/styles.css","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:23.680Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:03:23.683Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T07:03:28.179Z","level":"info","message":"Request received","requestId":"tvlx76wux1b","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:28.185Z","level":"info","message":"Response sent","requestId":"tvlx76wux1b","method":"GET","url":"/","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:03:28.203Z","level":"info","message":"Request received","requestId":"a7j6s0gd3v","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:28.205Z","level":"info","message":"Response sent","requestId":"a7j6s0gd3v","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:28.442Z","level":"info","message":"Request received","requestId":"lv89pziilmf","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:28.444Z","level":"info","message":"Response sent","requestId":"lv89pziilmf","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:28.456Z","level":"info","message":"Request received","requestId":"08rmdods3mf","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:28.457Z","level":"info","message":"Response sent","requestId":"08rmdods3mf","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:37.826Z","level":"info","message":"Request received","requestId":"jnhws73r13","method":"POST","url":"/auth/login","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:37.909Z","level":"info","message":"Activity logged","userId":2,"action":"user_login","details":{"email":"admin@example.com"}}
+{"timestamp":"2025-05-16T07:03:37.910Z","level":"info","message":"Response sent","requestId":"jnhws73r13","method":"POST","url":"/auth/login","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:03:42.963Z","level":"info","message":"Request received","requestId":"i8pcv2yqpf","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:42.978Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:03:42.981Z","level":"info","message":"Response sent","requestId":"i8pcv2yqpf","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:44.898Z","level":"info","message":"Request received","requestId":"zy6y0cmf4yf","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:44.901Z","level":"info","message":"Response sent","requestId":"zy6y0cmf4yf","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:45.679Z","level":"info","message":"Request received","requestId":"01hzh9glkx8v","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:45.681Z","level":"info","message":"Response sent","requestId":"01hzh9glkx8v","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:46.361Z","level":"info","message":"Request received","requestId":"ygjejfawkwd","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:46.363Z","level":"info","message":"Response sent","requestId":"ygjejfawkwd","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:46.925Z","level":"info","message":"Request received","requestId":"todmb49i57e","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:46.927Z","level":"info","message":"Response sent","requestId":"todmb49i57e","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:47.494Z","level":"info","message":"Request received","requestId":"q1ngil9557o","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:47.496Z","level":"info","message":"Response sent","requestId":"q1ngil9557o","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:48.693Z","level":"info","message":"Request received","requestId":"8ooibmszs4b","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:48.702Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:03:48.703Z","level":"info","message":"Response sent","requestId":"8ooibmszs4b","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:49.278Z","level":"info","message":"Request received","requestId":"3tdniwz3fo3","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:49.286Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:03:49.289Z","level":"info","message":"Response sent","requestId":"3tdniwz3fo3","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:50.477Z","level":"info","message":"Request received","requestId":"2g3x210px2k","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:50.480Z","level":"info","message":"Response sent","requestId":"2g3x210px2k","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:50.725Z","level":"info","message":"Request received","requestId":"lmtt1ob69a","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:50.727Z","level":"info","message":"Response sent","requestId":"lmtt1ob69a","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:50.892Z","level":"info","message":"Request received","requestId":"fpz9otite1q","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:50.894Z","level":"info","message":"Response sent","requestId":"fpz9otite1q","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:03:51.657Z","level":"info","message":"Request received","requestId":"u7fdjr6tf4n","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:51.662Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:03:51.664Z","level":"info","message":"Response sent","requestId":"u7fdjr6tf4n","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:03:55.078Z","level":"info","message":"Request received","requestId":"01rrzkunsx1o","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:03:55.080Z","level":"info","message":"Response sent","requestId":"01rrzkunsx1o","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:04:12.001Z","level":"info","message":"Request received","requestId":"hc147y63y2u","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T07:04:12.003Z","level":"info","message":"Response sent","requestId":"hc147y63y2u","method":"GET","url":"/api/protected","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:06:46.531Z","level":"info","message":"Request received","requestId":"ktw5xdzu9ul","method":"POST","url":"/auth/register","ip":"::1"}
+{"timestamp":"2025-05-16T07:06:46.621Z","level":"error","message":"Failed to log activity","error":"insert into \"activity_logs\" (\"action\", \"details\", \"user_id\") values ($1, $2, $3) - invalid input syntax for type integer: \"{\"id\":6}\"","userId":{"id":6},"action":"user_registered"}
+{"timestamp":"2025-05-16T07:06:46.622Z","level":"info","message":"Response sent","requestId":"ktw5xdzu9ul","method":"POST","url":"/auth/register","ip":"::1","statusCode":201,"statusMessage":"Created"}
+{"timestamp":"2025-05-16T07:06:54.764Z","level":"info","message":"Request received","requestId":"0uo8s1bcsap","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:06:54.765Z","level":"info","message":"Response sent","requestId":"0uo8s1bcsap","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:06:54.787Z","level":"info","message":"Request received","requestId":"08koxudmvxsm","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:06:54.788Z","level":"info","message":"Response sent","requestId":"08koxudmvxsm","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:06:54.833Z","level":"info","message":"Request received","requestId":"g8ck90ye2ej","method":"GET","url":"/auth/profile","ip":"::1"}
+{"timestamp":"2025-05-16T07:06:54.850Z","level":"error","message":"Profile fetch failed","requestId":"g8ck90ye2ej","method":"GET","url":"/auth/profile","ip":"::1","error":{"length":151,"name":"error","severity":"ERROR","code":"22P02","where":"unnamed portal parameter $1 = '...'","file":"numutils.c","line":"619","routine":"pg_strtoint32_safe"}}
+{"timestamp":"2025-05-16T07:06:54.850Z","level":"info","message":"Response sent","requestId":"g8ck90ye2ej","method":"GET","url":"/auth/profile","ip":"::1","statusCode":500,"statusMessage":"Internal Server Error"}
+{"timestamp":"2025-05-16T07:37:32.633Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:37:32.636Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T07:41:22.348Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:41:22.349Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T07:41:48.118Z","level":"info","message":"Request received","requestId":"rjm7ldv3l9","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:48.122Z","level":"info","message":"Response sent","requestId":"rjm7ldv3l9","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:41:48.147Z","level":"info","message":"Request received","requestId":"qnb8jgb707i","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:48.148Z","level":"info","message":"Response sent","requestId":"qnb8jgb707i","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:41:52.494Z","level":"info","message":"Request received","requestId":"0syh82z1a4io","method":"POST","url":"/auth/login","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:52.575Z","level":"info","message":"Activity logged","userId":2,"action":"user_login","details":{"email":"admin@example.com"}}
+{"timestamp":"2025-05-16T07:41:52.576Z","level":"info","message":"Response sent","requestId":"0syh82z1a4io","method":"POST","url":"/auth/login","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:41:55.709Z","level":"info","message":"Request received","requestId":"0ebc01fkaeps","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:55.724Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:41:55.725Z","level":"info","message":"Response sent","requestId":"0ebc01fkaeps","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:41:57.908Z","level":"info","message":"Request received","requestId":"80eu1q3ydcw","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:57.911Z","level":"info","message":"Response sent","requestId":"80eu1q3ydcw","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:41:58.521Z","level":"info","message":"Request received","requestId":"qpvnez1e2zr","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:58.523Z","level":"info","message":"Response sent","requestId":"qpvnez1e2zr","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:41:58.903Z","level":"info","message":"Request received","requestId":"99uocu73cpq","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:58.905Z","level":"info","message":"Response sent","requestId":"99uocu73cpq","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:41:59.087Z","level":"info","message":"Request received","requestId":"zabuha6oghe","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:41:59.089Z","level":"info","message":"Response sent","requestId":"zabuha6oghe","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:42:01.853Z","level":"info","message":"Request received","requestId":"0qnoijokrk6","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:01.854Z","level":"info","message":"Response sent","requestId":"0qnoijokrk6","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:42:02.537Z","level":"info","message":"Request received","requestId":"5a86fijb5fc","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:02.539Z","level":"info","message":"Response sent","requestId":"5a86fijb5fc","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:42:29.894Z","level":"info","message":"Request received","requestId":"4trrlwi51am","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:29.909Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:42:29.911Z","level":"info","message":"Response sent","requestId":"4trrlwi51am","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:42:37.172Z","level":"info","message":"Request received","requestId":"xfoeakw26p","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:37.181Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T07:42:37.183Z","level":"info","message":"Response sent","requestId":"xfoeakw26p","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T07:42:49.767Z","level":"info","message":"Request received","requestId":"2r935ykqwgq","method":"POST","url":"/auth/login","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:49.839Z","level":"info","message":"Activity logged","userId":2,"action":"user_login","details":{"email":"admin@example.com"}}
+{"timestamp":"2025-05-16T07:42:49.839Z","level":"info","message":"Response sent","requestId":"2r935ykqwgq","method":"POST","url":"/auth/login","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T07:42:53.257Z","level":"info","message":"Request received","requestId":"gtv9d2lceqd","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T07:42:53.260Z","level":"info","message":"Response sent","requestId":"gtv9d2lceqd","method":"GET","url":"/api/protected","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T07:48:27.092Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:48:27.095Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T07:48:57.471Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T07:48:57.472Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T08:00:37.468Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T08:00:37.473Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T08:00:48.808Z","level":"info","message":"Request received","requestId":"9mqvrt2v2p","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T08:00:48.815Z","level":"info","message":"Protected route accessed","requestId":"9mqvrt2v2p","method":"GET","url":"/api/protected","ip":"::1","userId":2}
+{"timestamp":"2025-05-16T08:00:48.823Z","level":"info","message":"Response sent","requestId":"9mqvrt2v2p","method":"GET","url":"/api/protected","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T08:00:52.534Z","level":"info","message":"Request received","requestId":"l8fwg5z79ls","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T08:00:52.539Z","level":"info","message":"Response sent","requestId":"l8fwg5z79ls","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:14:59.157Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T09:14:59.161Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T09:15:04.100Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T09:15:04.101Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T09:15:20.162Z","level":"info","message":"Request received","requestId":"gpbm4dchzh9","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:20.211Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T09:15:20.214Z","level":"info","message":"Response sent","requestId":"gpbm4dchzh9","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:15:20.960Z","level":"info","message":"Request received","requestId":"awew24p318","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:20.964Z","level":"info","message":"Response sent","requestId":"awew24p318","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:15:21.727Z","level":"info","message":"Request received","requestId":"pv3usn9n04","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:21.730Z","level":"info","message":"Response sent","requestId":"pv3usn9n04","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:15:23.244Z","level":"info","message":"Request received","requestId":"iskegfrn5ka","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:23.246Z","level":"info","message":"Response sent","requestId":"iskegfrn5ka","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:15:23.298Z","level":"info","message":"Request received","requestId":"0o0pjx008t5s","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:23.299Z","level":"info","message":"Response sent","requestId":"0o0pjx008t5s","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:15:23.332Z","level":"info","message":"Request received","requestId":"7fi75ujlgda","method":"GET","url":"/auth/profile","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:23.340Z","level":"info","message":"Response sent","requestId":"7fi75ujlgda","method":"GET","url":"/auth/profile","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:15:25.095Z","level":"info","message":"Request received","requestId":"7w01r4n8v7j","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:25.098Z","level":"info","message":"Response sent","requestId":"7w01r4n8v7j","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:15:26.514Z","level":"info","message":"Request received","requestId":"48cuw5zugt","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:26.518Z","level":"info","message":"Protected route accessed","requestId":"48cuw5zugt","method":"GET","url":"/api/protected","ip":"::1","userId":2}
+{"timestamp":"2025-05-16T09:15:26.519Z","level":"info","message":"Response sent","requestId":"48cuw5zugt","method":"GET","url":"/api/protected","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:15:29.378Z","level":"info","message":"Request received","requestId":"ltbyw252ff","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:29.380Z","level":"info","message":"Response sent","requestId":"ltbyw252ff","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:15:30.462Z","level":"info","message":"Request received","requestId":"jyizp5xjpn","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:30.464Z","level":"info","message":"Response sent","requestId":"jyizp5xjpn","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:15:36.154Z","level":"info","message":"Request received","requestId":"tgxdjjsf33","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T09:15:36.164Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T09:15:36.165Z","level":"info","message":"Response sent","requestId":"tgxdjjsf33","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:18:06.164Z","level":"info","message":"Request received","requestId":"qlojvn6f2kp","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:18:06.167Z","level":"info","message":"Response sent","requestId":"qlojvn6f2kp","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:20:02.687Z","level":"info","message":"Request received","requestId":"v1dfhfrypgb","method":"GET","url":"/","ip":"::1"}
+{"timestamp":"2025-05-16T09:20:02.703Z","level":"info","message":"Response sent","requestId":"v1dfhfrypgb","method":"GET","url":"/","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:20:02.760Z","level":"info","message":"Request received","requestId":"bxwdu69wykh","method":"GET","url":"/script.js","ip":"::1"}
+{"timestamp":"2025-05-16T09:20:02.762Z","level":"info","message":"Response sent","requestId":"bxwdu69wykh","method":"GET","url":"/script.js","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:20:02.827Z","level":"info","message":"Request received","requestId":"kx65yclgw1","method":"GET","url":"/auth/profile","ip":"::1"}
+{"timestamp":"2025-05-16T09:20:03.149Z","level":"info","message":"Response sent","requestId":"kx65yclgw1","method":"GET","url":"/auth/profile","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:20:04.849Z","level":"info","message":"Request received","requestId":"y5s1ks13p8d","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:20:04.853Z","level":"info","message":"Response sent","requestId":"y5s1ks13p8d","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":404,"statusMessage":"Not Found"}
+{"timestamp":"2025-05-16T09:25:12.358Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T09:25:12.364Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T09:25:17.346Z","level":"info","message":"Request received","requestId":"2r1gjzz15kq","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:25:17.412Z","level":"info","message":"Admin fetched activity logs","requestId":"2r1gjzz15kq","method":"GET","url":"/api/admin/logs","ip":"::1","adminId":2,"page":1,"limit":200,"totalCount":"162"}
+{"timestamp":"2025-05-16T09:25:17.417Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_logs","details":{}}
+{"timestamp":"2025-05-16T09:25:17.421Z","level":"info","message":"Response sent","requestId":"2r1gjzz15kq","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:25:21.822Z","level":"info","message":"Request received","requestId":"9wysdg24yl6","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T09:25:21.828Z","level":"info","message":"Fetched users from database","requestId":"9wysdg24yl6","method":"GET","url":"/api/admin/users","ip":"::1"}
+{"timestamp":"2025-05-16T09:25:21.831Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_all_users","details":{}}
+{"timestamp":"2025-05-16T09:25:21.833Z","level":"info","message":"Response sent","requestId":"9wysdg24yl6","method":"GET","url":"/api/admin/users","ip":"::1","statusCode":304,"statusMessage":"Not Modified"}
+{"timestamp":"2025-05-16T09:25:23.558Z","level":"info","message":"Request received","requestId":"vl0zg26b6id","method":"GET","url":"/api/admin/logs","ip":"::1"}
+{"timestamp":"2025-05-16T09:25:23.574Z","level":"info","message":"Admin fetched activity logs","requestId":"vl0zg26b6id","method":"GET","url":"/api/admin/logs","ip":"::1","adminId":2,"page":1,"limit":200,"totalCount":"164"}
+{"timestamp":"2025-05-16T09:25:23.581Z","level":"info","message":"Activity logged","userId":2,"action":"admin_view_logs","details":{}}
+{"timestamp":"2025-05-16T09:25:23.582Z","level":"info","message":"Response sent","requestId":"vl0zg26b6id","method":"GET","url":"/api/admin/logs","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:25:50.984Z","level":"info","message":"Database setup complete."}
+{"timestamp":"2025-05-16T09:25:50.985Z","level":"info","message":"Server running on http://localhost:3000","port":3000}
+{"timestamp":"2025-05-16T09:25:58.212Z","level":"info","message":"Request received","requestId":"2xbs52gvlqq","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T09:25:58.217Z","level":"info","message":"Protected route accessed","requestId":"2xbs52gvlqq","method":"GET","url":"/api/protected","ip":"::1","userId":2}
+{"timestamp":"2025-05-16T09:25:58.223Z","level":"info","message":"Response sent","requestId":"2xbs52gvlqq","method":"GET","url":"/api/protected","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:26:00.337Z","level":"info","message":"Request received","requestId":"p2j309gdkg","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T09:26:00.340Z","level":"info","message":"Protected route accessed","requestId":"p2j309gdkg","method":"GET","url":"/api/protected","ip":"::1","userId":2}
+{"timestamp":"2025-05-16T09:26:00.342Z","level":"info","message":"Response sent","requestId":"p2j309gdkg","method":"GET","url":"/api/protected","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:26:09.057Z","level":"info","message":"Request received","requestId":"jh76zxkv2qj","method":"POST","url":"/auth/login","ip":"::1"}
+{"timestamp":"2025-05-16T09:26:09.132Z","level":"info","message":"Activity logged","userId":1,"action":"user_login","details":{"email":"anupam@example.com"}}
+{"timestamp":"2025-05-16T09:26:09.133Z","level":"info","message":"Response sent","requestId":"jh76zxkv2qj","method":"POST","url":"/auth/login","ip":"::1","statusCode":200,"statusMessage":"OK"}
+{"timestamp":"2025-05-16T09:26:11.820Z","level":"info","message":"Request received","requestId":"x101tbvgxzj","method":"GET","url":"/api/protected","ip":"::1"}
+{"timestamp":"2025-05-16T09:26:11.822Z","level":"info","message":"Protected route accessed","requestId":"x101tbvgxzj","method":"GET","url":"/api/protected","ip":"::1","userId":1}
+{"timestamp":"2025-05-16T09:26:11.822Z","level":"info","message":"Response sent","requestId":"x101tbvgxzj","method":"GET","url":"/api/protected","ip":"::1","statusCode":200,"statusMessage":"OK"}
